@@ -1,1 +1,1 @@
-console.log("card model js")
+console.log("card model js update")
